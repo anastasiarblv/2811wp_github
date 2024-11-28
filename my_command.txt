@@ -1,0 +1,3 @@
+(base) C:\Users\honor\2811wp_cookiecutter>python -m venv 2811wp_cookiecutter_vir_sred
+(base) C:\Users\honor\2811wp_cookiecutter>2811wp_cookiecutter_vir_sred\Scripts\activate
+(2811wp_cookiecutter_vir_sred) (base) C:\Users\honor\2811wp_cookiecutter>pip list
